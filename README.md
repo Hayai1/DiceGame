@@ -1,2 +1,4 @@
 # DiceGame
-A school project to create a dice game using python
+this is my first python project i did in my 3rd year of high school
+
+Its a simple game where you roll a dice and try to get the highest number
